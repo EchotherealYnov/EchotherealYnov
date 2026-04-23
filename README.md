@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EchotherealYnov
-- 👀 I’m interested in it (web developping), scuba diving and skiing
-- 🌱 I’m currently learning at PARIS YNOV CAMPUS at Nanterre 92000, France
+- 👀 I’m interested in computer science (web developping, front and back end), scuba diving and skiing
+- 🌱 I’m a graduate at PARIS YNOV CAMPUS located in Nanterre 92000, France
 - 💞️ I’m looking to collaborate on nothing on particular at the moment
 - 📫 How to reach me : leo.magnant@gmail.com or leo.magnant@ynov.com
 - My website : https://portfolio-leo-magnant.netlify.app/
